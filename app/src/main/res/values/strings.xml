@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DuckDuckGo Instant Answer</string>
+    <string name="searchtext">Insert search term here</string>
+    <string name="searchbutton">Search</string>
+</resources>
